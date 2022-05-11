@@ -5,8 +5,8 @@ This repo contains the project files of the Junior Developer Test.
 
 
 
-## Hosted at :
-http://mustapha.eu5.bet
+## Hosted At
+http://mustapha.eu5.net
 
 
 
